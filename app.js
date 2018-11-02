@@ -40,7 +40,5 @@ function ShoppingListCheckOffService(){
 	service.getBoughtItems = function(){
 		return boughtItems;
 	}
-
 }
-
 })();
